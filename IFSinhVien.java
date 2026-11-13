@@ -1,4 +1,4 @@
-package leHoaiAn_25661461_tuan9;
+package Giabinh_25655221_tuan9;
 import java.util.List;
 public interface IFSinhVien {
 	boolean them(SinhVien sv);
